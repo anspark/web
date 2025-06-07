@@ -13,7 +13,7 @@ The Anspark website provides:
 
 ## 🛠️ Tech Stack
 
-- **Framework**: [Next.js](https://nextjs.org/) *(or replace with your actual framework)*
+- **Framework**: [React.js](https://react.dev/)
 - **Styling**: Tailwind CSS
 - **Language**: TypeScript / JavaScript
 - **Hosting**: Vercel / Netlify / Custom server
