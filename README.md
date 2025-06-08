@@ -8,15 +8,15 @@ The Anspark website provides:
 
 - 📃 Information about the organization
 - 🧰 A showcase of our open-source tools
-- 🗂 Access to documentation and guides
-- 📢 Announcements and updates
+- 🗂 Access to links, etc.
+- 📢 Announcements and updates (Soon)
 
 ## 🛠️ Tech Stack
 
-- **Framework**: [React.js](https://react.dev/)
-- **Styling**: Tailwind CSS
-- **Language**: TypeScript / JavaScript
-- **Hosting**: Vercel / Netlify / Custom server
+- **Framework**: [React](https://react.dev/)
+- **Styling**: CSS3
+- **Language**: JavaScript
+- **Hosting**: Anspark Server
 
 ## 🚀 Getting Started
 
